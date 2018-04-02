@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Test Management Quizz</string>
+    <string name="name">Please enter your name here</string>
+
+    <string name="question_1">Feedback is an important management tool. \nI provide feedback to my staff</string>
+    <string name="answer_11">mainly to criticize low performance</string>
+    <string name="answer_12">always when requested for</string>
+    <string name="answer_13">certainly by using judgmental phrases</string>
+
+
+    <string name="question_2">Does the 10 hour/day rule apply to management?</string>
+
+
+    <string name="question_3">The Term Gig Economy refers to</string>
+    <string name="answer_31">a labour market characterized by the prevalence of short-term contracts or freelance work as opposed to permanent jobs</string>
+    <string name="answer_32">the market field of gadgets and gimmicks</string>
+    <string name="answer_33">freelance artists looking for the next audition</string>
+
+
+    <string name="question_4">If I asked my staff about their goals for 2018</string>
+    <string name="answer_41">their goals are a subgoup of my goals</string>
+    <string name="answer_42">their goals are too vague for my liking</string>
+    <string name="answer_43">they would say \'what goals\'</string>
+
+
+    <string name="fave">Please tell us which of the subjects \n the questions touched on was \nthe most interesting to you?</string>
+
+</resources>
